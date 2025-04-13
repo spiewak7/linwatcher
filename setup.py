@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='A simple CLI tool to display Linux system information',
     author='Frank',
-    author_email='frank@example.com',
+    author_email='mathieu.frank37@gmail.com',
     url='https://github.com/spiewak7/linwatcher',
     packages=find_packages(),
     install_requires=[
