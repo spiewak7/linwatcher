@@ -16,3 +16,18 @@ git clone git@github.com:spiewak7/linwatcher.git
 cd linwatcher
 pip install -r requirements.txt
 python linwatcher.py
+
+
+## ✅ Example Output
+```
+LinWatcher — System Overview
+OS : Arch Linux
+Kernel : 6.7.9-arch1-1
+Architecture : x86_64
+Hostname : archbox
+CPU : Intel i5-8250U
+Cores : 4 (8 logical)
+RAM : 7.64 GB
+Disk : 256 GB
+```
+
